@@ -5,6 +5,11 @@ int main(){
     int v1, t2;
     int s2, v2;
 
+    print("Hello World");
+
+
+
+
     scanf("%d", &s1);
     scanf("%d", &t1);
     scanf("%d", &v1);
